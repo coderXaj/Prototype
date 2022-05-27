@@ -1,4 +1,5 @@
 {
     "git.allowForcePush": true,
-    "git.fetchOnPull": true
+    "git.fetchOnPull": true,
+    "editor.formatOnSave": true
 }
